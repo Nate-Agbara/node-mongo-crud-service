@@ -1,0 +1,17 @@
+.idea
+node_modules
+logs
+cache
+BUILD
+dist
+.sass-cache
+.scss-cache
+.env
+src/.idea
+src/www/.idea
+Thumbs.db
+.DS_Store
+.git.zip
+/nbproject/
+options/
+src/docs
